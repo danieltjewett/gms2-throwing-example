@@ -1,4 +1,4 @@
-# Throwing Example
+# GMS2 Throwing Example
 
 ![Example](https://github.com/danieltjewett/gms2-throwing-example/blob/master/example.png "Example")
 
