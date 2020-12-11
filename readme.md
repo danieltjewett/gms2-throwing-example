@@ -1,6 +1,6 @@
 # Draw Container
 
-![Example](https://github.com/danieltjewett/gms2-throwing-example/blob/master/image2.png "Example")
+![Example](https://github.com/danieltjewett/gms2-throwing-example/blob/master/example.png "Example")
 
 A 2D Zelda-like throwing object example with Game Maker Studio 2.
 
